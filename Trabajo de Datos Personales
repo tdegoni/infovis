@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h2>Trabajo de Datos Personales</h2><p>En el siguiente trabajo mi objetivo fue ver los programas y pel&iacute;culas que vi en netflix durante esta cuarentena y hacer una comparaci&oacute;n entre mis gustos personales y los de la cr&iacute;tica (representada por el sitio IMDb). Y luego intentar visualizar mis gustos agrupando los g&eacute;neros de cada una de las pel&iacute;culas que vi.&nbsp;</p>
+<div class="flourish-embed flourish-network" data-src="visualisation/3858398" data-url="https://flo.uri.sh/visualisation/3858398/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+{
+  background-color: grey;
+}
+  </body>
+</html>
