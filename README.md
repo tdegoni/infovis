@@ -7,3 +7,5 @@
 [W35-Indian batsmen v left-arm pace- Chaticulator](https://tdegoni.github.io/infovis/makeovermonday35.svg)
 
 [My Timeline](https://tdegoni.github.io/infovis/timeline.html)
+
+[Trabajo de Datos Personales (advertencia, hubo problemas tecnicos)](https://tdegoni.github.io/infovis/TrabajoDatosPersonales.html)
